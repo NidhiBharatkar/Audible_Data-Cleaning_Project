@@ -1,10 +1,12 @@
 # Audible_Data-Cleaning_Project
+---
 Welcome to the project! Here's a brief description.
-----
+
 ## Project Description:
+---
 Utilize Power Query Editor in Excel to clean and standardize an Audible dataset. Tasks include formatting columns, ensuring data consistency, and preparing the dataset for analysis.
-----
-Questions:
+
+## Questions:
 * Standardize the name column to ensure consistent title casing.
 * Separate combined first and last names in the author column if they are currently combined.
 * Ensure all entries in the releasedate column follow a consistent date format (DD-MM-YYYY).
